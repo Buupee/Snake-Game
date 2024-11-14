@@ -22,10 +22,10 @@ Working on this project helped me learn:
 
 ##  How to Play
 
-1. Control the snake using the arrow keys or WASD.
-2. Collect food to grow the snake longer.
-3. Avoid collisions with boundaries and your own body.
+- Control the snake using the arrow keys or WASD.
+- Collect food to grow the snake longer.
+- Avoid collisions with boundaries and your own body.
 
 ## Notes
 
-- This project is my first work in Unity, and it helped me understand the basics of character control and 3D navigation.
+This project is my first work in Unity, and it helped me understand the basics of character control and 3D navigation.
